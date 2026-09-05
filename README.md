@@ -1,29 +1,55 @@
+<div align="center">
 
+# 💼 Job Application Tracker
 
-Answers to Questions
+### *Batch 13 — Job Tracker Assignment*
 
-### 1. What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Ans:getElementById() → Finds one element by ID.
+</div>
 
-getElementsByClassName() → Finds elements by class name.
+---
 
-querySelector() → Finds the first matching element.
+## 📖 Overview
 
-querySelectorAll() → Finds all matching elements.
+A job application tracker displaying 8 mock job listings with stats. Users can toggle job status between pending, interview, and rejected.
 
-### 2. How do you create and insert a new element into the DOM?
+---
 
-Ans;We use createElement() to create a new element and appendChild() to insert it into the DOM.
+## ✨ Features
 
-### 3. What is Event Bubbling? And how does it work?
-ans:Event Bubbling means an event moves from the child element to its parent elements.
+| Feature | Description |
+|---------|-------------|
+| 📊 **Stats Dashboard** | Total / Interview / Rejected counts |
+| 📋 **Job Cards** | 8 mock job listings |
+| 🔄 **Status Toggle** | Pending → Interview → Rejected |
+| 🏷️ **Tab Filtering** | All / Interview / Rejected |
+| 📱 **Responsive** | Works on all devices |
 
+---
 
-### 4. What is Event Delegation in JavaScript? Why is it useful?
-ans:Event Delegation means adding an event listener to a parent element to handle events of its child elements.
-It is useful because it saves memory and improves performance.
-### 5. preventDefault() stops the default behavior.
- ans: stopPropagation() stops event bubbling.
+## 🚀 Getting Started
 
+```bash
+git clone https://github.com/sojibahmedshorif25-ai/batch13-phjobtrackerassignment.git
+open index.html
+```
 
+---
+
+## 👨‍💻 Author
+
+**Sojib Ahmed**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it impressive!**
+
+</div>
